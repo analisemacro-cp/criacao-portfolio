@@ -1,2 +1,2 @@
 def ola():
-  print("hello")
+  print("ola")
