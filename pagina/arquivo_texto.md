@@ -22,7 +22,7 @@ print("hello")
 
 # Título 1
 
-![Análise Macro](logo.png)
+![Análise Macro](../logo.png)
 
 * Item 1
 * Item 2
